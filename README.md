@@ -1,16 +1,62 @@
-# my_card
+# My Card
 
-A new Flutter project.
+A simple and elegant Flutter application that displays a personal profile card.  
+This app showcases a clean UI with a profile image, name, job title, and contact information.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Preview
 
-A few resources to get you started if this is your first Flutter project:
+This project creates a digital business card layout using Flutter widgets like:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- CircleAvatar  
+- Text  
+- Card  
+- ListTile  
+- Custom fonts  
+- SafeArea layout  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📱 Features
+
+- Profile avatar  
+- Custom fonts (Pacifico & Source Sans Pro)  
+- Clean teal color theme  
+- Phone number & email contact cards  
+- Responsive layout  
+
+---
+
+## 📦 Installation & Setup
+
+### Clone the repository
+
+git clone https://github.com/AlhajiFuad/my_card.git
+
+cd my_card
+
+### Install dependencies
+
+flutter pub get
+
+### Run the app
+
+flutter run
+
+
+## 📚 Flutter Resources
+
+Flutter Docs: https://docs.flutter.dev
+
+Write your first Flutter app (Codelab)
+
+Flutter Cookbook
+
+## 👤 Author
+
+Alhaji Fuad
+
+Flutter Developer
+
+📧 alhajifuad074@gmail.com
